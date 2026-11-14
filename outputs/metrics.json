@@ -1,0 +1,13 @@
+{
+  "raw_orders": 99441,
+  "eligible_delivered_orders": 96470,
+  "excluded_orders": 2971,
+  "late_orders": 6534,
+  "late_rate_pct": 6.77,
+  "median_delivery_days": 10.22,
+  "p90_delivery_days": 23.1,
+  "exclusions": {
+    "not_delivered": 2963,
+    "missing_date": 8
+  }
+}

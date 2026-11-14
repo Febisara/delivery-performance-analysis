@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+logs/
+data/raw/
+data/processed/
+outputs/analysed_orders.csv
+outputs/excluded_orders.csv
